@@ -1,2 +1,3 @@
 # gst-experiments
-Various experiments using gstreamer
+Various experiments using gstreamer (on Windows)
+
