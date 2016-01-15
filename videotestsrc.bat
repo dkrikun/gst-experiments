@@ -1,4 +1,4 @@
 @echo off
 
-gst-launch-1.0 videotestsrc pattern=snow ! d3dvideosink
+gst-launch-1.0 videotestsrc ! d3dvideosink
 pause
